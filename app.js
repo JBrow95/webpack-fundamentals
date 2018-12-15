@@ -1,1 +1,1 @@
-alert("hello");
+alert(require('./main.js'));
