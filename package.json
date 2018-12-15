@@ -1,11 +1,19 @@
 {
   "name": "webpack_prod",
   "version": "1.0.0",
-  "description": "Sample webpack app",
+  "description": "sample webpack app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Justin B",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBrow95/webpack-fundamentals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBrow95/webpack-fundamentals/issues"
+  },
+  "homepage": "https://github.com/JBrow95/webpack-fundamentals#readme"
 }
